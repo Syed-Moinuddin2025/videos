@@ -26,7 +26,7 @@ Upload your MP4 files and access them through GitHub Pages.
 
 Example:
 
-https://syed-moinuddin2025.github.io/videos/citylights.mp4
+ https://syed-moinuddin2025.github.io/videos/office.mp4
 
 ## License
 
